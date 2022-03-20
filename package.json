@@ -1,0 +1,25 @@
+{
+  "name": "mongodbrelationshipassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulr41180/MongodbRelationShipAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulr41180/MongodbRelationShipAssignment/issues"
+  },
+  "homepage": "https://github.com/rahulr41180/MongodbRelationShipAssignment#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7",
+    "nodemon": "^2.0.15"
+  }
+}
